@@ -1,0 +1,18 @@
+rm [27.07 12:47]
+	WARNING: errRm administrator@43.252.144.193/Bandung/20190622/invent.dbf
+
+paste [27.07 12:32]
+	ADDED: F:\xampp\htdocs\elFinder\files\SETMEAL.DBF
+	CHANGED: F:\xampp\htdocs\elFinder\files
+
+mkdir [27.07 12:39]
+	ADDED: F:\xampp\htdocs\elFinder\files\.trash
+	CHANGED: F:\xampp\htdocs\elFinder\files\.trash
+
+paste [27.07 12:40]
+	WARNING: errUploadMime files\SETMEAL.DBF
+
+rm [27.07 12:42]
+	REMOVED: F:\xampp\htdocs\elFinder\files\SETMEAL.DBF
+	CHANGED: F:\xampp\htdocs\elFinder\files
+
